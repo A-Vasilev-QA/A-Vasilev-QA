@@ -39,15 +39,15 @@ Senior QA Automation Engineer with **9 years** of hands‑on experience 
 
 ### UI Automation  
 * **Page‑Object Framework Demo** — Selenide + JUnit + Allure  
-  <https://github.com/A‑Vasilev‑QA/ui‑testing‑demo>  
+  <https://github.com/A‑Vasilev‑QA/demoqa-tests-12>  
 
 ### API Automation  
-* **REST API Testing Suite** — REST Assured + TestNG + Allure  
-  <https://github.com/A‑Vasilev‑QA/api‑testing‑demo>  
+* **REST API Testing Suite** — REST Assured + JUnit + Allure  
+  <https://github.com/A‑Vasilev‑QA/MF-technical-task>  
 
 ### Mobile Automation  
 * **Mobile Testing Sample** — Appium‑based tests for Android  
-  <https://github.com/A‑Vasilev‑QA/mobile‑testing‑demo>  
+  <https://github.com/A‑Vasilev‑QA/mobile‑tests-13>  
 
 ---
 
