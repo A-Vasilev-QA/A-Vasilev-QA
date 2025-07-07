@@ -1,4 +1,4 @@
-Senior QA Automation Engineer based in Yerevan with **9 years** of hands‑on experience in UI, API and mobile testing, CI ⁄ CD and DevOps practices.
+Senior QA Automation Engineer with **9 years** of hands‑on experience in manual and automated testing, CI ⁄ CD and DevOps practices.
 
 ---
 
