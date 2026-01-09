@@ -1,4 +1,4 @@
-Senior QA Automation Engineer with **9 years** of hands‑on experience in manual and automated testing, CI ⁄ CD and DevOps practices.
+Senior QA Automation Engineer with **10 years** of hands‑on experience in manual and automated testing, CI ⁄ CD and DevOps practices.
 
 ---
 
